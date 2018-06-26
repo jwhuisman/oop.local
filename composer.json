@@ -1,0 +1,11 @@
+{
+    "name": "jwhuisman/oop-mvc",
+    "type": "project",
+    "description": "A basic OOP MVC framwork",
+    "keywords": ["Easy", "MVC", "Model View Controller"],
+    "homepage": "https://github.com/jwhuisman/oop",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": { "": ["core/", "model/", "controller/", "helper/"] }
+    }
+}
